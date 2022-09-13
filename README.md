@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Hassan, and as a Computer Systems Engineer, I believe in providing technical solutions to solve business problems. I acknowledge that by keeping the right balance between innovative thinking and sustainable development, we can contribute to better societal transformation.
+I'm Hassan, and as a Computer Systems Engineer, I believe in providing technical solutions to solve business problems. I acknowledge that by keeping the right balance between innovative thinking and sustainable development, we can contribute to better societal transformation.
 
 If you share the common goal of bringing change around through disruptive technologies, get in touch!
 
