@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I'm Hassan, and as a Computer Systems Engineer, I believe in providing technical solutions to solve business problems. I acknowledge that by keeping the right balance between innovative thinking and sustainable development, we can contribute to better societal transformation.
-
-If you share the common goal of bringing change around through disruptive technologies, get in touch!
+I'm Hassan, and as a Computer Systems Engineer, I believe in providing technical solutions to solve business problems.
 
 - :mortar_board: I'm a MSc. Data Science student at the Sapienza Università di Roma, Italy...
-- 🌱 I’m also learning some emerging technologies: Smart contracts, Blockchain development, AI...
+- 📫 How to reach me: ...
+    - [LinkedIn](https://www.linkedin.com/in/ihasanreza/)
+    - [Twitter](https://twitter.com/ihasanreza)
 
 <!--
 **ihasanreza/ihasanreza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
