@@ -5,7 +5,6 @@ I'm Hassan, and as a Computer Systems Engineer, I believe in providing technical
 - :mortar_board: I'm doing MSc. Data Science at the Sapienza Università di Roma, Italy...
 - 📫 How to reach me: ...
     - [LinkedIn](https://www.linkedin.com/in/ihasanreza/)
-    - [Twitter](https://twitter.com/ihasanreza)
 
 <!--
 **ihasanreza/ihasanreza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
