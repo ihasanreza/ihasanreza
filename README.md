@@ -2,8 +2,9 @@
 
 I'm Hassan, and as a Computer Systems Engineer, I believe in providing technical solutions to solve business problems.
 
-- :mortar_board: I'm doing MSc. Data Science at the Sapienza Università di Roma, Italy...
-- 📫 How to reach me: ...
+- :mortar_board: I hold an MSc in Data Science from Sapienza Università di Roma, Italy.
+- 💼 I have about 2 years of Data & AI work experience, primarily focused on financial services industry (insurance, bank, international financial institution).
+- 📫 How to reach me:
     - [LinkedIn](https://www.linkedin.com/in/ihasanreza/)
 
 <!--
